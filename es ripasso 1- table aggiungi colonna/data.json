@@ -1,0 +1,55 @@
+[
+    {
+        "id": "0001",
+        "data": "12/01/2022",
+        "cliente": "Giovanni della Rovere",
+        "indirizzo": "via della pinta nr.10",
+        "citta": "Milano",
+        "prodotti": [
+            {
+                "idp": "P001",
+                "prodotto": "Borsa da viaggio",
+                "quantita": 1,
+                "prezzoTotale": 100,
+                "valuta":"Euro"
+            },
+            {
+                "idp": "P002",
+                "prodotto": "Puzzle la bella addormentata",
+                "quantita": 4,
+                "prezzoTotale": 92,
+                "valuta":"Euro"
+            }
+        ]
+    },
+    {
+        "id": "0002",
+        "data": "22/01/2022",
+        "cliente": "Silvia Giacinta",
+        "indirizzo": "via della Gioconda nr.30",
+        "citta": "Palermo",
+        "prodotti": [
+            {
+                "idp": "P001",
+                "prodotto": "Borsa da viaggio",
+                "quantita": 2,
+                "prezzoTotale": 200,
+                "valuta":"Euro"
+            },
+            {
+                "idp": "P002",
+                "prodotto": "marmellata la Deliziosa",
+                "quantita": 3,
+                "prezzoTotale": 45,
+                "valuta":"Euro"
+            },
+            {
+                "idp": "P003",
+                "prodotto": "Agenda anno 2022",
+                "quantita": 1,
+                "prezzoTotale": 6,
+                "valuta":"Euro"
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+}
+
+form {
+    font-size: 14pt;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+th{
+    background-color: #04AA6D;
+    color:white;
+    font-weight: bold;
+    border: double 1px #000;
+}
+td,table{
+    border: double 1px #000; 
+}
+
+li{
+    text-align: left;
+}
+
+.button {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 12px;
+    margin-top: 12px;
+}
